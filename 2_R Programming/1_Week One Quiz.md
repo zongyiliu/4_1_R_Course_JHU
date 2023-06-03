@@ -5,7 +5,7 @@ R was developed by statisticians working at
 * StatSci
 * Insightful
 
-** Answer **: (選這個, The R language was developed by Ross Ihaka and Robert Gentleman who were statisticians at the University of Auckland in New Zealand.)
+**Answer**: (選這個, The R language was developed by Ross Ihaka and Robert Gentleman who were statisticians at the University of Auckland in New Zealand.)
 
 
 
