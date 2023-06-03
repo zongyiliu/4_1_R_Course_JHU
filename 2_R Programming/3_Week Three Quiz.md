@@ -2,7 +2,7 @@
 Question 1
 Take a look at the 'iris' dataset that comes with R. The data can be loaded with the code:
 
-```
+```R
 library(datasets)
 data(iris)
 ```
