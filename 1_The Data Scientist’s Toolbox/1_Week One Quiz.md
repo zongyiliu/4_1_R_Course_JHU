@@ -1,15 +1,15 @@
 
 1. Question 1
 Which of these is NOT one of the main skills embodied by data scientists?
-Hacking skills
-Machine learning
-Math and stats
+# Hacking skills
+# Machine learning
+# Math and stats
 
 
 2. Question 2
 
 What is the most important thing in Data Science?
-The question you are trying to answer
+# The question you are trying to answe
 Statistical inference
 
 
