@@ -24,3 +24,29 @@ Continuing with the 'iris' dataset from the previous Question, what R code retur
 * apply(iris[, 1:4], 1, mean)
 * colMeans(iris)
 * apply(iris, 2, mean)
+
+# Question 3
+Load the 'mtcars' dataset in R with the following code
+
+```
+library(datasets)
+data(mtcars)
+```
+
+There will be an object names 'mtcars' in your workspace. You can find some information about the dataset by running
+
+```
+?mtcars
+```
+
+How can one calculate the average miles per gallon (mpg) by number of cylinders in the car (cyl)? Select all that apply.
+
+* split(mtcars, mtcars$cyl)
+* apply(mtcars, 2, mean)
+* with(mtcars, tapply(mpg, cyl, mean))
+* sapply(split(mtcars$mpg, mtcars$cyl), mean)
+* mean(mtcars$mpg, mtcars$cyl)
+* tapply(mtcars$cyl, mtcars$mpg, mean)
+* sapply(mtcars, cyl, mean)
+* lapply(mtcars, mean)
+* tapply(mtcars$mpg, mtcars$cyl, mean)
