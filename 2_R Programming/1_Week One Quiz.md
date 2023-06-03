@@ -1,21 +1,12 @@
 # Question 1
 R was developed by statisticians working at
-
-1 / 1 point
-
-The University of Auckland
-
-
-Johns Hopkins University
+* The University of Auckland (選這個, The R language was developed by Ross Ihaka and Robert Gentleman who were statisticians at the University of Auckland in New Zealand.)
+* Johns Hopkins University
+* StatSci
+* Insightful
 
 
-StatSci
 
-
-Insightful
-
-Correct
-The R language was developed by Ross Ihaka and Robert Gentleman who were statisticians at the University of Auckland in New Zealand.
 
 2.
 Question 2
