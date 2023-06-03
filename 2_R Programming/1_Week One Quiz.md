@@ -8,25 +8,12 @@ R was developed by statisticians working at
 **Answer**: 奧克蘭大學, The R language was developed by Ross Ihaka and Robert Gentleman who were statisticians at the University of Auckland in New Zealand.
 
 
-2.
-Question 2
+# Question 2
 The definition of free software consists of four freedoms (freedoms 0 through 3). Which of the following is NOT one of the freedoms that are part of the definition?  Select all that apply.
 
-0 / 1 point
-
-The freedom to restrict access to the source code for the software.
-
-Correct
-This is not part of the free software definition. Freedoms 1 and 3 require access to the source code.
-
-
-The freedom to sell the software for any price.
-
-Correct
-This is not part of the free software definition. The free software definition does not mention anything about selling software (although it does not disallow it).
-
-
-The freedom to run the program, for any purpose.
+* The freedom to restrict access to the source code for the software. (這個)
+* The freedom to sell the software for any price. (這個)
+* The freedom to run the program, for any purpose.
 
 
 The freedom to prevent users from using the software for undesirable purposes.
